@@ -1,0 +1,62 @@
+.update-nag.error-nag {
+    border-left: 4px solid red;
+    display: inline-block;
+    line-height: 19px;
+    padding: 11px 15px;
+    font-size: 14px;
+    text-align: left;
+    margin: 10px 0px;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
+}
+
+.login .error-nag {
+    background-color: #fff;
+}
+
+.covr-login.covr-login-to-left {
+    float: left;
+    margin-right: 20px !important;
+}
+
+.covr-login form {
+    margin-top: 29px !important;
+}
+
+.covr-login {
+    float: left;
+    margin-right: 20px !important;
+    padding: 8% 0 0 !important;
+    width: 320px;
+}
+
+.covr-login h1 {
+    background-color: #00BE9A;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+}
+
+.covr-login h1 img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.covr-login-container {
+    margin: auto !important;
+    padding: 8% 0 0 !important;
+    width: 660px;
+}
+
+#login {
+    float: left;
+}
+
+.covr-wp-spinner {
+    width: 100%;
+    margin-left: 0;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.covr-account-settings {
+    margin-top: 35px;
+}
